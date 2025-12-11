@@ -95,6 +95,6 @@ Este repositorio refleja un recorrido por técnicas fundamentales del procesamie
 
 Cada desafío permitió analizar fortalezas, limitaciones y decisiones de diseño dentro de un flujo completo de experimentación científica: preprocesamiento, modelado, evaluación y conclusiones.
 
-En caso que tengan cualquier duda [jose.aviani@gmail.com](jose.aviani@gmail.com).
+En caso que tengan cualquier duda [jose.aviani@gmail.com](mailto:jose.aviani@gmail.com)
 
 ### ¡Gracias! ###

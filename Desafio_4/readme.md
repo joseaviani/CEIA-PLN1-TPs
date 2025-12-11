@@ -18,7 +18,7 @@ Si bien el enunciado dice que el modelo se debe implementar en PyTorch, al final
 
 Implementación del modelo con Keras y búsqueda de hiperparámetros del mejor modelo:
 
-[Desafío 4 Keras parte 1](\Desafio_4_Keras_Parte1.ipynb)
+[Desafío 4 Keras parte 1](./Desafio_4_Keras_Parte1.ipynb)
 
 En esta primera parte se hacen todos los comentarios correspondientes.
 
@@ -28,7 +28,7 @@ En esta primera parte se hacen todos los comentarios correspondientes.
 
 Un entrenamiento más del mejor modelo encontrado en la parte 1:
 
-[Desafío 4 Keras parte 2](\Desafio_4_Keras_Parte2.ipynb)
+[Desafío 4 Keras parte 2](./Desafio_4_Keras_Parte2.ipynb)
 
 En esta segunda parte sólo se hacen comentarios de lo que se modificó respecto de la primera parte.
 
